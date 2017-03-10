@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>SS Factory Framework</name>
+	<author>Spdskatr</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>Framework mod to pull my factory machinery mods together with respect to compatibility. Does not add any new items.</description>
+</ModMetaData>

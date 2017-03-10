@@ -1,0 +1,3 @@
+C:\Everything\AWESOME CODE STUFF\RimWorld - Dev tool for modders\Mods\[SS]FactoryFramework\Assemblies\Source.dll
+C:\Everything\AWESOME CODE STUFF\RimWorld - Dev tool for modders\Mods\[SS]FactoryFramework\Source\obj\Release\Source.csprojResolveAssemblyReference.cache
+C:\Everything\AWESOME CODE STUFF\RimWorld - Dev tool for modders\Mods\[SS]FactoryFramework\Source\obj\Release\Source.dll
